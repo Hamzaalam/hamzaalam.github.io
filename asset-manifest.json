@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/developer-folio-app/static/css/main.3ae2a134.chunk.css",
-    "main.js": "/developer-folio-app/static/js/main.c35bc821.chunk.js",
-    "main.js.map": "/developer-folio-app/static/js/main.c35bc821.chunk.js.map",
+    "main.js": "/developer-folio-app/static/js/main.4770dc67.chunk.js",
+    "main.js.map": "/developer-folio-app/static/js/main.4770dc67.chunk.js.map",
     "runtime-main.js": "/developer-folio-app/static/js/runtime-main.3d1629ef.js",
     "runtime-main.js.map": "/developer-folio-app/static/js/runtime-main.3d1629ef.js.map",
-    "static/js/2.f7c151d1.chunk.js": "/developer-folio-app/static/js/2.f7c151d1.chunk.js",
-    "static/js/2.f7c151d1.chunk.js.map": "/developer-folio-app/static/js/2.f7c151d1.chunk.js.map",
+    "static/js/2.2fb3259c.chunk.js": "/developer-folio-app/static/js/2.2fb3259c.chunk.js",
+    "static/js/2.2fb3259c.chunk.js.map": "/developer-folio-app/static/js/2.2fb3259c.chunk.js.map",
     "index.html": "/developer-folio-app/index.html",
-    "precache-manifest.cce74b517d47ffc4ce5e5445ad0e1f10.js": "/developer-folio-app/precache-manifest.cce74b517d47ffc4ce5e5445ad0e1f10.js",
+    "precache-manifest.f5024046b2dbd4bb9fea2fcb49816183.js": "/developer-folio-app/precache-manifest.f5024046b2dbd4bb9fea2fcb49816183.js",
     "service-worker.js": "/developer-folio-app/service-worker.js",
     "static/css/main.3ae2a134.chunk.css.map": "/developer-folio-app/static/css/main.3ae2a134.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3d1629ef.js",
-    "static/js/2.f7c151d1.chunk.js",
+    "static/js/2.2fb3259c.chunk.js",
     "static/css/main.3ae2a134.chunk.css",
-    "static/js/main.c35bc821.chunk.js"
+    "static/js/main.4770dc67.chunk.js"
   ]
 }
