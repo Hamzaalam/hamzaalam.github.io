@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8810b4ac.chunk.css",
-    "main.js": "/static/js/main.a85aab91.chunk.js",
-    "main.js.map": "/static/js/main.a85aab91.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e427d7a5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e427d7a5.js.map",
-    "static/js/2.28b76288.chunk.js": "/static/js/2.28b76288.chunk.js",
-    "static/js/2.28b76288.chunk.js.map": "/static/js/2.28b76288.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.23991300732552bf5fcd467b16aa2811.js": "/precache-manifest.23991300732552bf5fcd467b16aa2811.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.8810b4ac.chunk.css.map": "/static/css/main.8810b4ac.chunk.css.map"
+    "main.css": "/developer-folio-app/static/css/main.3ae2a134.chunk.css",
+    "main.js": "/developer-folio-app/static/js/main.c35bc821.chunk.js",
+    "main.js.map": "/developer-folio-app/static/js/main.c35bc821.chunk.js.map",
+    "runtime-main.js": "/developer-folio-app/static/js/runtime-main.3d1629ef.js",
+    "runtime-main.js.map": "/developer-folio-app/static/js/runtime-main.3d1629ef.js.map",
+    "static/js/2.f7c151d1.chunk.js": "/developer-folio-app/static/js/2.f7c151d1.chunk.js",
+    "static/js/2.f7c151d1.chunk.js.map": "/developer-folio-app/static/js/2.f7c151d1.chunk.js.map",
+    "index.html": "/developer-folio-app/index.html",
+    "precache-manifest.cce74b517d47ffc4ce5e5445ad0e1f10.js": "/developer-folio-app/precache-manifest.cce74b517d47ffc4ce5e5445ad0e1f10.js",
+    "service-worker.js": "/developer-folio-app/service-worker.js",
+    "static/css/main.3ae2a134.chunk.css.map": "/developer-folio-app/static/css/main.3ae2a134.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.e427d7a5.js",
-    "static/js/2.28b76288.chunk.js",
-    "static/css/main.8810b4ac.chunk.css",
-    "static/js/main.a85aab91.chunk.js"
+    "static/js/runtime-main.3d1629ef.js",
+    "static/js/2.f7c151d1.chunk.js",
+    "static/css/main.3ae2a134.chunk.css",
+    "static/js/main.c35bc821.chunk.js"
   ]
 }
