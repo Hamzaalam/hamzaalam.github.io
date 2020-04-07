@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/developer-folio-app/static/css/main.18aac3a8.chunk.css",
+    "main.js": "/developer-folio-app/static/js/main.32089819.chunk.js",
+    "main.js.map": "/developer-folio-app/static/js/main.32089819.chunk.js.map",
+    "runtime-main.js": "/developer-folio-app/static/js/runtime-main.3d1629ef.js",
+    "runtime-main.js.map": "/developer-folio-app/static/js/runtime-main.3d1629ef.js.map",
+    "static/js/2.0e119a94.chunk.js": "/developer-folio-app/static/js/2.0e119a94.chunk.js",
+    "static/js/2.0e119a94.chunk.js.map": "/developer-folio-app/static/js/2.0e119a94.chunk.js.map",
+    "index.html": "/developer-folio-app/index.html",
+    "precache-manifest.b01662c0197e991eb25a3fd6e95b325b.js": "/developer-folio-app/precache-manifest.b01662c0197e991eb25a3fd6e95b325b.js",
+    "service-worker.js": "/developer-folio-app/service-worker.js",
+    "static/css/main.18aac3a8.chunk.css.map": "/developer-folio-app/static/css/main.18aac3a8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d1629ef.js",
+    "static/js/2.0e119a94.chunk.js",
+    "static/css/main.18aac3a8.chunk.css",
+    "static/js/main.32089819.chunk.js"
+  ]
+}
